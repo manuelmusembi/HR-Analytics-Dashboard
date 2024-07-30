@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d7c85a85-fe16-4fb1-820a-1bdd29291778)# HR-Analytics-Dashboard
+![image](https://github.com/user-attachments/assets/d7c85a85-fe16-4fb1-820a-1bdd29291778) 
 Dataset:
 We are provided with the Excel datasheet which contains the employees data for 3 months between April 2022-June 2022. Dataset contains information on employee codes, employee names, and their attendance records along with attendance keys such as “SL” for Sick Leave and “WFH” for Work From Home.
 
